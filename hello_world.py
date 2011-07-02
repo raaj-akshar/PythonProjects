@@ -1,3 +1,5 @@
 #/usr/bin/python
 #filename hello_world.py
-print "hello world"
+for i in range(1,6):
+	print "hello world"
+
